@@ -1,0 +1,5 @@
+git init
+git add Gradient_descent.ipynb 3_keras_mnist.ipynb 4.keras_CNN_mnist.ipynb 6.keras_CNN_Cifar10.ipynb 7.RNN.ipynb
+git commit -m "Added assignment notebooks with explanations and comments"
+git remote add origin <GitHub repository URL>
+git push -u origin master
